@@ -6,6 +6,8 @@ Este repositório contém projetos e exercícios desenvolvidos com o objetivo de
 
 Aqui estão reunidos desde problemas básicos até aplicações um pouco mais estruturadas, demonstrando evolução no raciocínio lógico e na organização de código.
 
+Comecei com programas simples e estou evoluindo para projetos mais complexos.
+
 ## Objetivo
 
 Desenvolver uma base sólida em programação, focando em:

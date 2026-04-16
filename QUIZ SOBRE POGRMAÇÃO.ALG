@@ -4,9 +4,9 @@ var
 n1,n2,n3,n4,n5,n6,n7,n8,n9,n10:caractere
 inicio
 pontos<-0
-      escreval("==================================================================")
+      escreval("================================================================")
       escreval("QUIZ SOBRE O 'MUNDO DA T.I'")
-      escreval("==================================================================")
+      escreval("================================================================")
       escreval("Quem é considerada a primeira programadora da história?")
       leia(n1)
               se(n1="Ada Lovelace") ou (n1="ada lovelace") entao
